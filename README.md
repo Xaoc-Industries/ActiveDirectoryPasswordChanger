@@ -79,7 +79,3 @@ Would you like to write changes to Active Directory? (y,n): y
 
 - This script must be run by a user with sufficient privileges to perform password resets.
 - Ensure the Active Directory module is installed: `Install-WindowsFeature RSAT-AD-PowerShell`
-
-**Author**: Mephistopheles  
-**GitHub**: [https://github.com/mephistopheles](https://github.com/mephistopheles)  
-**Support**: Contributions, issues, and PRs welcome.
